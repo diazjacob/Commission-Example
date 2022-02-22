@@ -5,7 +5,7 @@
  
  ## Other Examples
  
- This is some other content displaying some of the other comissions I've worked on in the past.
+ This is some other content displaying some of the other commissions I've worked on in the past.
  
  <img src="/pics/vehiclephys.gif" width="600">
  
